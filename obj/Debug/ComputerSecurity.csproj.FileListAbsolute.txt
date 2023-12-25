@@ -1,0 +1,11 @@
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\bin\Debug\ComputerSecurity.exe.config
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\bin\Debug\ComputerSecurity.exe
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\bin\Debug\ComputerSecurity.pdb
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.csproj.AssemblyReference.cache
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.csproj.SuggestedBindingRedirects.cache
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.Form1.resources
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.Properties.Resources.resources
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.csproj.GenerateResource.cache
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.exe
+D:\Asp.Net Core 2023\Windows Form Apps\ComputerSecurity\ComputerSecurity\obj\Debug\ComputerSecurity.pdb
